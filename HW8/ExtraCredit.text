@@ -1,0 +1,5 @@
+Extra Credit:
+- I utilized a Check Box and the Background class to create a Dark Mode that switches
+to dark mode and back dependent upon if the box is selected. 
+- I also utilized the javafx.animation classes to create a "winning animation" that enlarges
+the scale of each rectangle (ScaleTransition) within a row if the word is correctly guessed within the row.
